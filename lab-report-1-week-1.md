@@ -54,3 +54,9 @@ file in the location given, so nothing is printed.
 ![Image](images/l1-optimize.png)
 
 
+
+## Additional Notes
+
+I've been having multiple issues with my login and password for my remote account. I got everything at least temporarily working on the TA account for the screenshots. I'll go into more detail about the login problems in a Piazza post and hopefully get it fixed before the next lab.
+
+
