@@ -1,4 +1,3 @@
-
 # Lab Report 1
 
 
@@ -53,4 +52,5 @@ file in the location given, so nothing is printed.
 - If all the steps to update a file are in one line, they can be accessed with a single up arrow keystroke
 
 ![Image](images/l1-optimize.png)
+
 
