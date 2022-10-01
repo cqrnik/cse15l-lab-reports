@@ -3,7 +3,7 @@
 
 ## Installing VS Code
 
-- Go to the [Visual Studio Code website] (https://code.visualstudio.com/), and follow the guide for your specific device
+- Go to the [Visual Studio Code website](https://code.visualstudio.com/), and follow the guide for your specific device
 - Run the installer, and install the program in the required directory.
 
 ![Image](images/l1-vscode.png)
