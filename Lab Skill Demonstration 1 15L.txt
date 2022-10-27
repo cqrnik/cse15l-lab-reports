@@ -1,0 +1,29 @@
+1. git clone the repo
+
+2. build 2 server files, 
+   compile junit with	javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java	
+   run with 		java -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" org.junit.runner.JUnitCore TestDocSearch
+
+3. tests: 1st test- 1391 total files
+
+4. javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
+	then 
+	java DocSearchServer 7654 
+
+5. go to http://localhost:7654/, url starts at /, change to /search?q=language
+
+6. ssh login, then git clone in home dir, then exit
+	scp .\DocSearchServer.java TestDocSearch.java cs15lfa22qf@ieng6.ucsd.edu:~/skill-demo1/	
+	then ssh again, cd skill-demo1, then 
+	javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java
+	then 
+	java DocSearchServer 7654 
+
+7. do step 5 again with url http://ieng6-202.ucsd.edu:7654/
+
+8. line 49- change FileHelpers.readFile(f) to f.toString
+
+9. do commands in end of step 6 again, then step 7 again with /search?q=chapter 
+
+10. do step 6 again
+
