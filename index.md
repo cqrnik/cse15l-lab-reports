@@ -8,3 +8,5 @@
 [Lab Report 3](https://cqrnik.github.io/cse15l-lab-reports/lab-report-3.html)
 
 [Lab Report 4](https://cqrnik.github.io/cse15l-lab-reports/lab-report-4.html)
+
+[Lab Report 5](https://cqrnik.github.io/cse15l-lab-reports/lab-report-5.html)
