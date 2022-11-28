@@ -52,7 +52,7 @@ echo $junit_errors
 
 echo "FINAL SCORE:"
 echo $((total_tests - junit_errors))"/"$total_tests
-s
+
 ```
 
 ## Student Submissions
@@ -104,11 +104,13 @@ Standard error is empty. <br>
 Return code is zero, so the statement has no error. <br>
 Standard output is: <br>
 ```
+
 JUnit version 4.13.2
 ...
 Time: 0.016
 
 OK (3 tests)
+
 ```
 
 - `if [ $? -ne 0 ]` <br><br>
