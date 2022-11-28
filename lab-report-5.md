@@ -104,7 +104,6 @@ Standard error is empty. <br>
 Return code is zero, so the statement has no error. <br>
 Standard output is: <br>
 ```
-
 JUnit version 4.13.2
 ...
 Time: 0.016
